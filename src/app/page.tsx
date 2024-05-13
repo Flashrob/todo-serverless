@@ -1,4 +1,4 @@
-import { AddButton } from "./components/AddButton";
+import { AddButton } from "./components/AddTodo/AddButton";
 import { List } from "./components/List";
 
 export default function Home() {
